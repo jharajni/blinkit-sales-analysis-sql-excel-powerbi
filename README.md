@@ -5,7 +5,7 @@ This project focuses on analyzing Blinkit’s sales performance, customer satisf
 The goal of this project is to showcase my ability to:
 1.Work with real-world datasets
 2.Build interactive dashboards
-3.Extract insights using SQL, Python, Excel, and Power BI (DAX)
+3.Extract insights using SQL, Python, Excel, and Power BI 
 4.Translate data into meaningful business outcomes
 
 # Business Requirement
